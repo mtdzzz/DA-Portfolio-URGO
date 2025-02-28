@@ -22,7 +22,7 @@ The projects you'll find below showcase my ability to not only analyze data but 
 ## Projects
 ### [Proj#1 - Sales Team Performance Analysis Report | Power BI](https://github.com/mtdzzz/DA-Portfolio-URGO/tree/main/Proj%231%20-%20Sales%20Team%20Performance%20Analysis%20Report)
 This project explores factors affecting coffee quality scores, analyzing attributes such as processing methods, moisture levels, and defect rates. The findings provide insights into quality variations, helping businesses improve product consistency and sourcing decisions.
-### [Proj#3 - AdventureWorks Sales Analysis | SQL & PowerBI](https://github.com/mtdzzz/MD-Data-Analysis-Portfolio/tree/main/Proj%233%20-%20SQL%20and%20PowerBI%20-%20AdventureWorks)
+### [Proj#2 - AdventureWorks Sales Analysis | SQL & PowerBI](https://github.com/mtdzzz/MD-Data-Analysis-Portfolio/tree/main/Proj%233%20-%20SQL%20and%20PowerBI%20-%20AdventureWorks)
 In this data cleaning, analysis and visualisation project, I clean the AdventureWorks dataset with SQL, then visualise it as an interactive 3-page dashboard with PowerBI and also export a static version of the dashboard as a PDF. 
 
 **Page 1 - AdventureWorks Sales Overview**
