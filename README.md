@@ -22,6 +22,15 @@ The projects you'll find below showcase my ability to not only analyze data but 
 ## Projects
 ### [Proj#1 - Sales Team Performance Analysis Report | Power BI](https://github.com/mtdzzz/DA-Portfolio-URGO/tree/main/Proj%231%20-%20Sales%20Team%20Performance%20Analysis%20Report)
 This project explores factors affecting coffee quality scores, analyzing attributes such as processing methods, moisture levels, and defect rates. The findings provide insights into quality variations, helping businesses improve product consistency and sourcing decisions.
-### [Proj#2 - Supplier Quality Scorecard](https://github.com/mtdzzz/DAportfolio-ofi/tree/main/Proj%232%20-%20Cashew%20Supplier%20Quality%20Scorecard)
-A comprehensive supplier performance evaluation using delivery records of raw cashew nuts. This analysis identifies top-performing suppliers, highlights suppliers needing improvement, and offers actionable insights to strengthen supplier quality management.
+### [Proj#3 - AdventureWorks Sales Analysis | SQL & PowerBI](https://github.com/mtdzzz/MD-Data-Analysis-Portfolio/tree/main/Proj%233%20-%20SQL%20and%20PowerBI%20-%20AdventureWorks)
+In this data cleaning, analysis and visualisation project, I clean the AdventureWorks dataset with SQL, then visualise it as an interactive 3-page dashboard with PowerBI and also export a static version of the dashboard as a PDF. 
+
+**Page 1 - AdventureWorks Sales Overview**
+![Proj#3 - SQL and PowerBI - AdventureWorks_page-0001](https://github.com/user-attachments/assets/e881717e-df26-4183-b6e8-4721bd1f2ad4)
+
+**Page 2 - Sales by Customer**
+![Proj#3 - SQL and PowerBI - AdventureWorks_page-0002](https://github.com/user-attachments/assets/140da55c-e6cd-42fd-a3da-eb7da1d92da6)
+
+**Page 3 - Sales by Product**
+![Proj#3 - SQL and PowerBI - AdventureWorks_page-0003](https://github.com/user-attachments/assets/3eccde0a-4fb1-4e9a-a65e-bc2b9d447858)
 
