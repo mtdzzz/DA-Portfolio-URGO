@@ -10,10 +10,10 @@ The **primary goal of this analysis** is to:
 
 ## 2.	Data Overview:
 The dataset consists of five CSV files extracted from the CRM system:
-  **1. Sales Pipeline**: Information on sales opportunities (deal size, stages, dates)
-  **2. Sales Teams**: Sales agents and their managers
-  **3. Accounts**: Customer information (sector, revenue, employees)
-  **4. Products**: Product details and pricing
+**1. Sales Pipeline**: Information on sales opportunities (deal size, stages, dates)
+**2. Sales Teams**: Sales agents and their managers
+**3. Accounts**: Customer information (sector, revenue, employees)
+**4. Products**: Product details and pricing
 
 ## 3.	Skill Demonstrated:
 **- Data Transformation:** Cleaned and structured raw CRM data using Power Query.
