@@ -1,4 +1,4 @@
-# Proj#2 - Cashew Supplier Quality Scorecard
+# Proj#1 - Sales Team Performance Analysis Report
 ## 1.	Business Problem & Objective:
 This project aims to analyze sales performance by evaluating key performance indicators (KPIs) from the company's CRM system. The analysis highlights sales performance at different levels, including sales agents, products, customer sectors, and regions. The insights provided help improve decision-making and optimize sales strategies.
 The **primary goal of this analysis** is to:
